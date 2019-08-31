@@ -1,0 +1,16 @@
+{
+  "name": "marcocesarato/minifier",
+  "description": "This class can minify HTML, Javascript and CSS",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Marco Cesarato",
+      "email": "cesarato.developer@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=4.0.0"
+  }
+}
