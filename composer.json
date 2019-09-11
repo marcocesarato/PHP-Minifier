@@ -3,7 +3,7 @@
   "description": "This class can minify HTML, Javascript and CSS",
   "type": "library",
   "license": "GPL-3.0-or-later",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Marco Cesarato",
